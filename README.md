@@ -1,16 +1,17 @@
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" /> My name is Christopher Buhendwa</h1>
+<h1>Hi, my name is Christopher Buhendwa</h1>
 
 ### AI Engineer & Full-Stack Developer
 
 Welcome to my GitHub! I am a Seoul-based developer specializing in building scalable web applications and deploying machine learning models. I am passionate about bridging the gap between sophisticated ML/NLP models and polished, user-friendly full-stack applications—merging research with production.
 
-* 🌍 I'm based in Seoul.
-* 🧠 I'm currently focused on **Agentic AI** and **RAG** systems.
-* ✉️ You can contact me at [christopherbuhendwa2000@gmail.com](mailto:christopherbuhendwa2000@gmail.com).
+* I'm based in Seoul.
+* I'm currently focused on **Agentic AI** and **RAG** systems.
+* You can contact me at [christopherbuhendwa2000@gmail.com](mailto:christopherbuhendwa2000@gmail.com).
 
 ---
 
-### 🌐 Socials & Connect
+### Socials & Connect
+
 <p align="left">
   <a href="https://www.github.com/karon16" target="_blank" rel="noreferrer">
     <picture>
@@ -34,7 +35,7 @@ Welcome to my GitHub! I am a Seoul-based developer specializing in building scal
 
 ---
 
-### 🛠️ What I'm Working On
+### What I'm Working On
 
 | Project Name | Description | Link |
 | --- | --- | --- |
@@ -46,7 +47,7 @@ Welcome to my GitHub! I am a Seoul-based developer specializing in building scal
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
@@ -82,31 +83,38 @@ Welcome to my GitHub! I am a Seoul-based developer specializing in building scal
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
-  <a href="http://www.github.com/karon16">
-    <img src="https://github-readme-stats.vercel.app/api?username=karon16&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="karon16's GitHub stats" />
-  </a>
-  <a href="http://www.github.com/karon16">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karon16&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/karon16">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karon16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=karon16&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=karon16&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=karon16&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-### 🏆 Top Repositories
+### GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/karon16">
-    <img src="https://github-contributor-stats.vercel.app/api?username=karon16&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karon16&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=karon16&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=karon16&icon=0&color=0" alt="Profile Views" />
   </a>
 </div>
