@@ -26,7 +26,7 @@ Seoul-based developer building at the intersection of **Agentic AI**, **RAG syst
 
 <div align="center">
   <a href="https://christopher-buhendwa.vercel.app" target="_blank" rel="noreferrer">
-    <img src="./portfolio.gif" alt="Portfolio walkthrough" width="850" />
+    <img src="./portfolio.gif" alt="Portfolio walkthrough" width="100vw" />
   </a>
   <br/>
   <sub>Live walkthrough of my portfolio site</sub>
