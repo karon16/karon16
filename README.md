@@ -149,63 +149,6 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
-</p>
-
-<br/>
-
-## Tech Stack
-
-<table width="100%">
-<tr align="center">
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/><br/><sub>C</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/><br/><sub>C++</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/><br/><sub>Python</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart"/><br/><sub>Dart</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/><br/><sub>HTML5</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/><br/><sub>CSS3</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/><br/><sub>React</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js"/><br/><sub>Next.js</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS"/><br/><sub>Tailwind</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux"/><br/><sub>Redux</sub></td>
-</tr>
-<tr align="center">
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter"/><br/><sub>Flutter</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/><br/><sub>MySQL</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase"/><br/><sub>Firebase</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku"/><br/><sub>Heroku</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" width="36" height="36" alt="Resend"/><br/><sub>Resend</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/><br/><sub>Git</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/><br/><sub>Docker</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes"/><br/><sub>Kubernetes</sub></td>
-</tr>
-<tr align="center">
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"/><br/><sub>Linux</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu"/><br/><sub>Ubuntu</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="macOS"/><br/><sub>macOS</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code"/><br/><sub>VS Code</sub></td>
-<td width="8.33%"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/><br/><sub>Figma</sub></td>
-<td width="8.33%"></td>
-<td width="8.33%"></td>
-<td width="8.33%"></td>
-<td width="8.33%"></td>
-<td width="8.33%"></td>
-<td width="8.33%"></td>
-<td width="8.33%"></td>
-</tr>
-</table>
-
-<br/>
-
-## GitHub Stats
-
-<p align="center">
 <img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
