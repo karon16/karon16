@@ -206,6 +206,6 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 ## GitHub Stats
 
 <p align="center">
-<img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=false&profile=false" alt="GitHub Insights" />
+<img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
