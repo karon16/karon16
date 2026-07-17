@@ -219,20 +219,6 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 ## GitHub Stats
 
 <p align="center">
-<img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+<img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=false&profile=false&border=false" alt="GitHub Insights" />
 </p>
 
-<br>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
-</div>
-
-<br/>
-
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karon16&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="Contribution Activity Graph" width="100%"/>
-</div>
