@@ -1,10 +1,10 @@
-
+<div align="center">
 
 # Hi, I'm Christopher Buhendwa
 
 ### AI Engineer & Full-Stack Developer
 
-Seoul-based developer building at the intersection of **Agentic AI**, **RAG systems**, and production-grade full-stack applications, turning research-grade ML/NLP into tools people can actually use.
+Seoul-based developer building at the intersection of **Agentic AI**, **RAG systems**, and production-grade full-stack applications — turning research-grade ML/NLP into tools people can actually use.
 
 <br/>
 
@@ -20,6 +20,7 @@ Seoul-based developer building at the intersection of **Agentic AI**, **RAG syst
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" width="28" height="28" alt="Email" />
 </a>
 
+</div>
 
 <br/>
 
@@ -146,9 +147,9 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 
 <table width="100%">
 <tr>
-<td width="33%"><img src="https://github-readme-stats.shion.dev/api?username=karon16&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="100%"/></td>
-<td width="33%"><img src="https://streak-stats.demolab.com/?user=karon16&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/></td>
-<td width="33%"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=karon16&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="100%"/></td>
+<td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=karon16&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="100%"/></td>
+<td width="33%"><img src="https://streak-stats.demolab.com/?user=karon16&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/></td>
+<td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karon16&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="100%"/></td>
 </tr>
 </table>
 
@@ -157,11 +158,13 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karon16&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karon16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
+## Contribution Activity
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=karon16&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karon16&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 </div>
