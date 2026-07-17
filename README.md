@@ -154,19 +154,6 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 
 <br/>
 
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karon16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1&cache_seconds=86400" alt="GitHub Trophies" />
-</div>
-[Repository](https://github.com/karon16/jikjjang)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Tech Stack
 
 <table width="100%">
@@ -219,6 +206,6 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 ## GitHub Stats
 
 <p align="center">
-<img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=false&profile=false&border=false" alt="GitHub Insights" />
+<img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
