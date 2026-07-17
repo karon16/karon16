@@ -218,23 +218,18 @@ Flutter mobile app connecting job-seeking foreigners in Korea with AI-driven car
 
 ## GitHub Stats
 
-<table width="100%">
-<tr>
-<td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=karon16&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="100%"/></td>
-<td width="33%"><img src="https://streak-stats.demolab.com/?user=karon16&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="100%"/></td>
-<td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karon16&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" width="100%"/></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://yourinsights.vercel.app/api/insight?username=karon16&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
 
-<br/>
-
-## Trophies
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karon16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1&cache_seconds=86400" alt="GitHub Trophies" />
+<a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
 </div>
 
 <br/>
+
 
 ## Contribution Activity
 
