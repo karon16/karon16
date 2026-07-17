@@ -1,10 +1,10 @@
-<div align="center">
+
 
 # Hi, I'm Christopher Buhendwa
 
 ### AI Engineer & Full-Stack Developer
 
-Seoul-based developer building at the intersection of **Agentic AI**, **RAG systems**, and production-grade full-stack applications — turning research-grade ML/NLP into tools people can actually use.
+Seoul-based developer building at the intersection of **Agentic AI**, **RAG systems**, and production-grade full-stack applications, turning research-grade ML/NLP into tools people can actually use.
 
 <br/>
 
@@ -20,7 +20,6 @@ Seoul-based developer building at the intersection of **Agentic AI**, **RAG syst
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" width="28" height="28" alt="Email" />
 </a>
 
-</div>
 
 <br/>
 
