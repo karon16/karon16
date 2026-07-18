@@ -4,7 +4,7 @@
 
 ### AI Engineer & Full-Stack Developer
 
-Seoul-based developer building at the intersection of **Agentic AI**, **RAG systems**, and production-grade full-stack applications — turning research-grade ML/NLP into tools people can actually use.
+Seoul-based developer building at the intersection of **Agentic AI**, **RAG systems**, and production-grade full-stack applications, turning research-grade ML/NLP into tools people can actually use.
 
 <br/>
 
